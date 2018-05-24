@@ -3,8 +3,6 @@
 #include <stdio.h>
 #include <time.h>
 
-#define _ num+=1;
-
 int main(void)
 {
 	int num = 0;
